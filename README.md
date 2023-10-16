@@ -1,3 +1,4 @@
 A mental health Well-Being Application
-![Screenshot from 2023-10-16 21-56-12](https://github.com/kanishksharma123/Mental_fitness_app/assets/89863825/ad41a70c-8754-4dae-bac1-9487a9733a8d)
-First Page
+![First entry page](https://github.com/kanishksharma123/Mental_fitness_app/file:///home/kanishk/Pictures/Screenshots/Screenshot%20from%202023-10-16%2021-57-48.png)
+
+
