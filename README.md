@@ -1,4 +1,4 @@
-A mental health Well-Being Application
+                                                          **A mental health Well-Being Application**
 
 
 ![Loading Page](https://github.com/kanishksharma123/Mental_fitness_app/assets/89863825/77c349b1-9b68-4395-aaba-9648a763ff08)
