@@ -1,1 +1,1 @@
-A mental health Well-being Appplication
+A mental health Well-Being Application
