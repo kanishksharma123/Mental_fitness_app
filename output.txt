@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "image": "image1.jpg",
+        "title": "Title 1",
+        "subtitle": "Subtitle 1",
+        "joinNow": true
+    },
+    {
+        "id": 2,
+        "image": "image2.jpg",
+        "title": "Title 2",
+        "subtitle": "Subtitle 2",
+        "joinNow": false
+    },
+    {
+        "id": 3,
+        "image": "image3.jpg",
+        "title": "Title 3",
+        "subtitle": "Subtitle 3",
+        "joinNow": true
+    }
+]
+
+
+--------------------------------api for id name and email
+
+[
+    {
+        "id": 55,
+        "name": "puru",
+        "email": "purub56@gmail.com"
+    },
+    {
+        "id": 56,
+        "name": "puru",
+        "email": "purub56@gmail.com"
+    },
+]

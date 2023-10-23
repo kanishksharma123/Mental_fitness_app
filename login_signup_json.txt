@@ -1,0 +1,22 @@
+http://localhost:8085/api/v1/employee/save
+
+{
+    "employeename":"Yuan",
+    "email":"yuan@gmail.com",
+    "password":"123456789"
+}
+
+
+http://localhost:8085/api/v1/employee/login
+{
+    
+    "email":"yuan@gmail.com",
+    "password":"123456789"
+}
+
+Output
+
+{
+    "message": "Login Success",
+    "status": true
+}
